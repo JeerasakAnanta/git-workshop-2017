@@ -1,3 +1,6 @@
+print("===" * 10 ) 
+
+
 def main():
     a = int(input())
     b = int(input())
